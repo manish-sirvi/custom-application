@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_app=self.webpackChunkcustom_app||[]).push([[9765],{"./src/i18n/data/en.json":s=>{s.exports={}}}]);
