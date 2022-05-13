@@ -19,7 +19,7 @@ const config = {
   },
 
   oAuthScopes: {
-    view: ['view_products'],
+    view: ["view_products", "view_customers"],
     manage: ['manage_products'],
   },
 
