@@ -14,7 +14,7 @@ const config = {
 
     production: {
       applicationId: 'cl347t5ot16473301tft5623a43',
-      url: 'https://customapplication.pages.dev',
+      url: 'https://custom-application.pages.dev',
     },
   },
 
