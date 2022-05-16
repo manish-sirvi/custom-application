@@ -19,7 +19,7 @@ const config = {
   },
 
   oAuthScopes: {
-    view: ["view_products", "view_customers"],
+    view: ["view_products"],
     manage: ['manage_products'],
   },
 
@@ -36,6 +36,10 @@ const config = {
       defaultLabel: 'Channels',
       labelAllLocales: [],
       permissions: [PERMISSIONS.View],
+    },
+    {
+      uriPath: 'hello',
+      defaultLabel: 'Hello',
     },
   ],
 };
